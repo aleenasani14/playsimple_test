@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3630204257
+    locked: 0
+  - name: Foreground
+    uniqueID: 3398105171
+    locked: 0
+  - name: TreasureChest
+    uniqueID: 3776533323
+    locked: 0
+  - name: LilyPads
+    uniqueID: 83251599
+    locked: 0
+  - name: Player
+    uniqueID: 360052949
+    locked: 0
+  - name: Coins
+    uniqueID: 4192218113
+    locked: 0
