@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hamster
   layers:
   - Default
   - TransparentFX
@@ -47,15 +48,21 @@ TagManager:
   - name: Foreground
     uniqueID: 3398105171
     locked: 0
+  - name: WaterSpalsh
+    uniqueID: 1482496711
+    locked: 0
   - name: TreasureChest
     uniqueID: 3776533323
     locked: 0
   - name: LilyPads
     uniqueID: 83251599
     locked: 0
+  - name: Coins
+    uniqueID: 4192218113
+    locked: 0
   - name: Player
     uniqueID: 360052949
     locked: 0
-  - name: Coins
-    uniqueID: 4192218113
+  - name: Victory
+    uniqueID: 2820377249
     locked: 0
